@@ -4,9 +4,9 @@
 
 2. Given timestamp, request, IP address, referrer and status, obtain inferences from the given data, like
 
-i) How many requests occur in every minute?
+- How many requests occur in every minute?
 
-ii) do all IPs perform the same request or come from the same referrer?
+- do all IPs perform the same request or come from the same referrer?
   and so on... Try to obtain maximum possible inferences from the data.
 
 Dataset - https://drive.google.com/file/d/1hH17Ok2sdhdndd2mAmP6sElbQQbS3RWH/view?usp=sharing
