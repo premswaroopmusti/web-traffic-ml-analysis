@@ -1,1 +1,8 @@
 # Prophaze_tasks
+
+1. Given dataset contains different kinds of user-agents. Classify them as good or bad sources of traffic depending on the keywords present in them. Compare the results with at least 2 algorithms.
+
+2. Given timestamp, request, IP address, referrer and status, obtain inferences from the given data, like 
+i) How many requests occur in every minute?
+ii) do all IPs perform the same request or come from the same referrer?
+and so on... Try to obtain maximum possible inferences from the data.
